@@ -5,6 +5,8 @@ const fs = require("fs");
 const path = require("path");
 
 let { link } = require("./extractedLink");
+
+//choose between graphql_js_docs or graphql_learn_docs
 link = link.graphql_js_docs;
 
 const BASE_URL = "https://graphql.org/";
