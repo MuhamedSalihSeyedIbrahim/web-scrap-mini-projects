@@ -1,0 +1,40 @@
+exports.link = {
+  jest_js_docs: {
+    "Part-0-Getting Started": "https://jestjs.io/docs/en/getting-started",
+    "Part-1-Using Matchers": "https://jestjs.io/docs/en/using-matchers",
+    "Part-2-Testing Asynchronous Code":
+      "https://jestjs.io/docs/en/asynchronous",
+    "Part-3-Setup and Teardown": "https://jestjs.io/docs/en/setup-teardown",
+    "Part-4-Mock Functions": "https://jestjs.io/docs/en/mock-functions",
+    "Part-5-Jest Platform": "https://jestjs.io/docs/en/jest-platform",
+    "Part-6-Jest Community": "https://jestjs.io/docs/en/jest-community",
+    "Part-7-More Resources": "https://jestjs.io/docs/en/more-resources",
+    "Part-8-Snapshot Testing": "https://jestjs.io/docs/en/snapshot-testing",
+    "Part-9-An Async Example": "https://jestjs.io/docs/en/tutorial-async",
+    "Part-10-Timer Mocks": "https://jestjs.io/docs/en/timer-mocks",
+    "Part-11-Manual Mocks": "https://jestjs.io/docs/en/manual-mocks",
+    "Part-12-ES6 Class Mocks": "https://jestjs.io/docs/en/es6-class-mocks",
+    "Part-13-Bypassing module mocks":
+      "https://jestjs.io/docs/en/bypassing-module-mocks",
+    "Part-14-Using with webpack": "https://jestjs.io/docs/en/webpack",
+    "Part-15-Using with puppeteer": "https://jestjs.io/docs/en/puppeteer",
+    "Part-16-Using with MongoDB": "https://jestjs.io/docs/en/mongodb",
+    "Part-17-Using with DynamoDB": "https://jestjs.io/docs/en/dynamodb",
+    "Part-18-DOM Manipulation": "https://jestjs.io/docs/en/tutorial-jquery",
+    "Part-19-Watch Plugins": "https://jestjs.io/docs/en/watch-plugins",
+    "Part-20-Migrating to Jest": "https://jestjs.io/docs/en/migration-guide",
+    "Part-21-Troubleshooting": "https://jestjs.io/docs/en/troubleshooting",
+    "Part-22-Architecture": "https://jestjs.io/docs/en/architecture",
+    "Part-23-Testing React Apps": "https://jestjs.io/docs/en/tutorial-react",
+    "Part-24-Testing React Native Apps":
+      "https://jestjs.io/docs/en/tutorial-react-native",
+    "Part-25-Testing Web Frameworks":
+      "https://jestjs.io/docs/en/testing-frameworks",
+    "Part-26-Globals": "https://jestjs.io/docs/en/api",
+    "Part-27-Expect": "https://jestjs.io/docs/en/expect",
+    "Part-28-Mock Functions": "https://jestjs.io/docs/en/mock-function-api",
+    "Part-29-The Jest Object": "https://jestjs.io/docs/en/jest-object",
+    "Part-30-Configuring Jest": "https://jestjs.io/docs/en/configuration",
+    "Part-31-Jest CLI Options": "https://jestjs.io/docs/en/cli",
+  },
+};
